@@ -685,17 +685,19 @@ body{
 			}
 		}
 	.third-block{
-		&__row{
-			flex-wrap:wrap;
+		&__row{			
 			flex-direction:column;
 		}
-		&__img{
-		width:100%;
-		height:100%;
-		object-fit: cover;
-		position: static;
-		top:0;
-		right:0;		
+		&__artical{
+			flex: 1 1 auto;
+		}
+		&__left_side{
+			justify-content:center;
+			padding-right:0;
+		}
+		&__right_side{
+			justify-content:center;
+			padding-left:0;
 		}
 		.light-block{
 			flex-direction:column-reverse;
