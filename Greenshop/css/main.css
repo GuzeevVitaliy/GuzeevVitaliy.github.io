@@ -1595,9 +1595,9 @@ body {
     display: flex;
     width: 60%;
     min-width: 280px;
+    overflow: hidden;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    overflow: hidden;
   }
   .sidebar__wrap.active {
     left: 0;
@@ -1605,7 +1605,6 @@ body {
 
   .sidebar-overlay {
     width: 100%;
-    overflow: hidden;
     background: rgba(61, 61, 61, 0.5);
   }
   .sidebar-overlay.active {
@@ -1642,6 +1641,7 @@ body {
 
   .main__sidebar-wrap {
     overflow: auto;
+    height: 100%;
   }
 
   .main__page {
