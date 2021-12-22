@@ -1587,6 +1587,7 @@ body {
     top: 0;
     height: 100%;
     z-index: 30;
+    overflow: hidden;
   }
 
   .sidebar__wrap {
@@ -1595,7 +1596,6 @@ body {
     display: flex;
     width: 60%;
     min-width: 280px;
-    overflow: hidden;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
   }
