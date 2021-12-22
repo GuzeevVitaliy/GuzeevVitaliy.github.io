@@ -1316,6 +1316,7 @@ body {
   }
   .header .overlay {
     width: 100%;
+    overflow: hidden;
     background: rgba(61, 61, 61, 0.5);
   }
   .header .overlay.active {
