@@ -1324,7 +1324,8 @@ body {
   }
   .header__nav {
     width: 50%;
-    overflow-y: auto;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
     min-width: 300px;
     padding: 29px 10px;
     background-color: #FBFBFB;
