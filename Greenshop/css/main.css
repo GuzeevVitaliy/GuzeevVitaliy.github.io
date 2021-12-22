@@ -1597,14 +1597,15 @@ body {
     min-width: 280px;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
+    overflow: hidden;
   }
   .sidebar__wrap.active {
-    height: 120%;
     left: 0;
   }
 
   .sidebar-overlay {
     width: 100%;
+    overflow: hidden;
     background: rgba(61, 61, 61, 0.5);
   }
   .sidebar-overlay.active {
