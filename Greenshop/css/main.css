@@ -1584,6 +1584,7 @@ body {
   .sidebar__wrap, .sidebar-overlay {
     position: fixed;
     left: -200%;
+    bottom: 0;
     top: 0;
     height: 100%;
     z-index: 30;
@@ -1639,7 +1640,7 @@ body {
   }
 
   .main__sidebar-wrap {
-    overflow: scroll;
+    overflow: auto;
     height: 100%;
   }
 
