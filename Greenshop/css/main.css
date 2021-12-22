@@ -1326,7 +1326,7 @@ body {
     width: 50%;
     overflow: auto;
     min-width: 300px;
-    padding: 29px 10px;
+    padding: 29px 10px 0 10px;
     background-color: #FBFBFB;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
