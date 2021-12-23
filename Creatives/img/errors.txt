@@ -1,3 +1,0 @@
-[Fri Nov 05 2021 22:40:22 GMT+0200 (Восточная Европа (зима))] layer "© 2016 PSDfreebies.com – All Right Reserved": Expected end of input but "\u2013" found.
-[Fri Nov 05 2021 22:40:22 GMT+0200 (Восточная Европа (зима))] layer "Power by PSDfreebies.com": Unsupported extension: com
-[Fri Nov 05 2021 22:40:22 GMT+0200 (Восточная Европа (зима))] layer "PSDFreebies.com": Unsupported extension: com
