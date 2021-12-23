@@ -6,7 +6,7 @@
         url('../fonts/CeraPro-Regular.woff') format('woff'),
         url('../fonts/CeraPro-Regular.ttf') format('truetype');
     font-weight: 400;
-    font-style: normal;
+    font-style: normal;   
 }
 @font-face {
     font-family: 'Cera Pro';
@@ -15,7 +15,7 @@
         url('../fonts/CeraPro-Medium.woff') format('woff'),
         url('../fonts/CeraPro-Medium.ttf') format('truetype');
     font-weight: 500;
-    font-style: normal; 
+    font-style: normal;     
 }
 @font-face {
     font-family: 'Cera Pro';
@@ -24,7 +24,7 @@
         url('../fonts/CeraPro-Bold.woff') format('woff'),
         url('../fonts/CeraPro-Bold.ttf') format('truetype');
     font-weight: 700;
-    font-style: normal;
+    font-style: normal;     
  }
  @font-face {
     font-family: 'Cera Pro';
@@ -33,14 +33,14 @@
         url('../fonts/CeraPro-Black.woff') format('woff'),
         url('../fonts/CeraPro-Black.ttf') format('truetype');
     font-weight: 900;
-    font-style: normal;
+    font-style: normal;     
  }
 @font-face {
 	font-family: 'Hanged-Letters';
 	src: url('../fonts/Hanged-Letters.eot');
 	src: local('☺'), url('../fonts/Hanged-Letters.woff') format('woff'), url('../fonts/Hanged-Letters.ttf') format('truetype'), url('../fonts/Hanged-Letters.svg') format('svg');
 	font-weight: normal;
-	font-style: normal;
+	font-style: normal;	
 }
 $main-theme-color:#46A358;
 $main-theme-color-hover:#3d8c4c; 
