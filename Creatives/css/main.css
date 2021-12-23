@@ -172,7 +172,7 @@ body {
   min-height: 100vh;
   padding-bottom: 10vh;
   text-align: center;
-  background: url(../img/header_fon.jpg) no-repeat top center / cover;
+  background: #41403e url(../img/header_fon.jpg) no-repeat top center / cover;
 }
 .first-block__text {
   padding-top: 40vh;
