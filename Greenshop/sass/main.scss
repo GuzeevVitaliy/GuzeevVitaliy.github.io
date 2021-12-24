@@ -1416,6 +1416,9 @@ body{
 	    flex: 0 1 100%;
 	    padding: 15px 15px 0 15px;
 	    text-align: center;
+	    &:not(:first-child){
+	    	border-left:none;
+	    }	    
 	  }
 	  &__img-wrap{
 	    justify-content: center;
@@ -1440,8 +1443,7 @@ body{
     &__list{
     	display:block;
     }
-  }
-  
+  }  
   .filters-sidebar{
     display: inline-flex;
     flex: 0 1 auto;
