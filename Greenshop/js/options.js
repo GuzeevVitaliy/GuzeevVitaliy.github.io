@@ -27,7 +27,8 @@ $('.shop-main__slider-for').slick({
 	slidesToScroll: 1,
 	arrows: false,
 	fade: true,
-	asNavFor: '.shop-main__slider-nav'
+	asNavFor: '.shop-main__slider-nav',
+	initialSlide: 1
 
 });
 $('.shop-main__slider-nav').slick({
@@ -39,6 +40,7 @@ $('.shop-main__slider-nav').slick({
 	dots: false,
 	focusOnSelect: true,
 	verticalSwiping: true,
+	initialSlide: 1,
 	responsive: [
 		{
 			breakpoint: 768,
