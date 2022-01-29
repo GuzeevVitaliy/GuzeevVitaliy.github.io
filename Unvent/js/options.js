@@ -5,6 +5,9 @@ $(document).ready(function () {
 		autoplaySpeed: 5000
 	});
 });
-
-
-
+$(document).ready(function () {
+	$('.header__slider').magnificPopup({
+		delegate: 'a',
+		type: 'image'
+	});
+});
