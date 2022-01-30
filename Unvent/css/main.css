@@ -918,4 +918,7 @@ body {
   .header__calc-btn {
     padding: 1.5rem;
   }
+  .header__top-number {
+    font-size: 0.95rem;
+  }
 }
