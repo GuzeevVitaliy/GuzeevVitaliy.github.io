@@ -582,7 +582,7 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding: 2rem;
+  padding: 3rem 0;
 }
 
 .map-popup__main.open {
